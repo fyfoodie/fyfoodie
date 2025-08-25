@@ -1,4 +1,4 @@
-#👋 Hi there, Im Fyqah
+# 👋 Hi there, Im Fyqah
 
 --- 
 🎓 Currently pursuing my Master’s in Data Analytics  
@@ -11,6 +11,12 @@
 
 🌱 Right now, I’m building my skills step by step in data analytics — from wrangling messy data to trying out machine learning models.  
 
-⚡ Fun fact: I love turning theory into practice, even if it means breaking things first and fixing them later 😅
+---
+
+### ⚡ A little about me
+I like trying things out, breaking them (sometimes), and then fixing them while learning something new.  
+Outside of coding, I enjoy hiking 🥾, sci-fi 👽, and baking 🍪
+
+---
 
 📫 Feel free to connect or peek at my repos — I’m always open to learning and sharing!
