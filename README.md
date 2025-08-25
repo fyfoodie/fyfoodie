@@ -14,8 +14,7 @@
 ---
 
 ### ⚡ A little about me
-I like trying things out, breaking them (sometimes), and then fixing them while learning something new.  
-Outside of coding, I enjoy hiking 🥾, sci-fi 👽, and baking 🍪
+I like trying things out, breaking them (sometimes), and then fixing them while learning something new. Outside of coding, I enjoy hiking 🥾, sci-fi 👽, and baking 🍪
 
 ---
 
