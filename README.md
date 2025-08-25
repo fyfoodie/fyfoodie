@@ -1,4 +1,4 @@
-##👋 Hi there, Im Fyqah
+#👋 Hi there, Im Fyqah
 
 --- 
 🎓 Currently pursuing my Master’s in Data Analytics  
