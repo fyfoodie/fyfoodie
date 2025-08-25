@@ -1,6 +1,6 @@
 ##👋 Hi there, Im Fyqah
 
---
+--- 
 🎓 Currently pursuing my Master’s in Data Analytics  
 💡 I enjoy exploring how data can tell stories and solve real-world problems  
 
